@@ -1,0 +1,11 @@
+{
+  "description": "A Conway's Game of Life implementation built with Kotlin Multiplatform, running natively on mobile, desktop, and web from a single shared codebase.",
+  "featured": false,
+  "tags": ["kotlin", "multiplatform", "game-of-life", "web", "mobile", "desktop", "kmp"],
+  "images": [
+    "https://github.com/user-attachments/assets/2b9adcb5-d1f5-4519-82c9-893f9831a0f3"
+  ],
+  "links": [
+    {"name": "Live", "url": "https://mljr.eu/game-of-life/"}
+  ]
+}
