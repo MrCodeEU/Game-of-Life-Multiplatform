@@ -30,8 +30,8 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/mrcodeeU/game-of-life-multiplatform:latest
-            ghcr.io/mrcodeeU/game-of-life-multiplatform:${{ github.sha }}
+            ghcr.io/mrcodeeu/game-of-life-multiplatform:latest
+            ghcr.io/mrcodeeu/game-of-life-multiplatform:${{ github.sha }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
